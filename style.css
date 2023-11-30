@@ -4,3 +4,7 @@ h1{
     width:50px;
 }
 
+p{ 
+    color: hwb(318 0% 0%);
+    text-align: justify;
+}

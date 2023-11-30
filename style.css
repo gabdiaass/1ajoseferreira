@@ -6,6 +6,6 @@ h1{
 
 p{ 
     color: hwb(318 0% 0%);
-    text-align: justify;
+    text-align:left;
     width: 30pt;
 }

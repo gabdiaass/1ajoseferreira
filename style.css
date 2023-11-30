@@ -7,4 +7,5 @@ h1{
 p{ 
     color: hwb(318 0% 0%);
     text-align: justify;
+    width: 30pt;
 }
